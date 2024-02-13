@@ -1,112 +1,139 @@
 <link rel="stylesheet" type="text/css" href="resume.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto Slab">
 
-<span class="name">Teng-Jui Lin</span>
+<span class="name">Kha Pham</span>
 
 <span class="info">
 
-[![Mail](https://simpleicons.org/icons/minutemailer.svg) tlin10@uw.edu](mailto:tlin10@uw.edu)
-[![GitHub](https://simpleicons.org/icons/github.svg) github.com/tengjuilin](https://github.com/tengjuilin)
+[![Phone](https://img.icons8.com/ios-filled/50/apple-phone.png) +1 (763) 862-8376](tel:+17638628376) |[![Mail](https://simpleicons.org/icons/minutemailer.svg) contact@khathepham.com](mailto:contact@khathepham.com) |
+[![GitHub](https://simpleicons.org/icons/github.svg) github.com/khathepham](https://github.com/khathepham)
+
+Minneapolis, Minn., USA | Winnipeg, Man., Canada
+
 
 </span>
 
 ## Education
 
-### University of Washington | <location> Seattle, WA, USA </location> <time> Sep 2019 – Present </time>
+### University of Manitoba <time> Sept. 2021 - Present </time>
+<location> Winnipeg, Man., Canada </location>
+- B.S. in Computer Science
+- Expected Graduation: Apr. 2024
+- Dean's List
 
-- B.S. in Chemical Engineering, Nanoscience and Molecular Engineering Option, with Departmental Honors
-- Minor in Applied Mathematics and Chemistry
-- GPA: 3.97 | Expected Graduation: June 2023
-- Mary Gates Research Scholarship | 2 Dan Evans Term Scholarships | C-HACK Team 1st, 3rd Places
+### North Hennepin Community College <time> Aug. 2019 - May 2021 </time>
+  <location> Brooklyn Park, Minn., USA </location>
+- A.S. Computer Science Transfer Pathway
 
-### Brown University | <location> Providence, RI, USA </location> <time> Jun 2018 – Aug 2018 </time>
+### Anoka-Ramsey Community College <time>Aug. 2017 - May 2019</time>
+<location> Coon Rapids, Minn., USA </location>
+- A.S. Computer Science Transfer Pathway
+- High School Diploma
 
-- Pre-Baccalaureate Program: Neuroscience, Cell and Molecular Biology
+### Coon Rapids High School <time>Sept. 2014 - June 2019</time>
+<location> Coon Rapids, Minn., USA </location>
 
-### Kinglee High School | <location> Zhengzhou, Henan, China </location> <time> Sep 2013 – Jun 2019 </time>
-
-- Discovery Fair 1st Place | Science Fair 1st, 2nd Places | 2 Peer Tutor Awards | Merit Student of Zhengzhou
+- AP Scholar with Honors
+- Questbridge Finalist
 
 ## Relevant Experience
 
-### Undergraduate Research Assistant <time> Nov 2020 – Present </time>
+### Site Reliability Engineer, Developer Internship <time> Nov 2020 – Present </time>
 
-<location> Department of Chemical Engineering, University of Washington, PI: Elizabeth Nance </location>
+<location> API Platforms and DevOps - Technology and Operations - Royal Bank of Canada </location>
 
-- Quantified microglia morphology of 3 datasets using image processing and machine learning methods
-- Developed Python API for data analysis for modular integration to fluorescent image analysis workflow
-- Scanned 102 murine breast cancer tissue slices using confocal microscope (24.5 hr) for collaborators
-- Surveyed literature regarding cell segmentation, morphological analysis, and image-based profiling
+- Developed automation, internal web pages, and scripts using Python, Ansible Automation, Jenkins, and Dynatrace to allow the API Platform and DevOps team to monitor, be notified of, and fix outages and potential issues. 
 
-### Summer Undergraduate Research Scholar <time> Jun 2022 - Aug 2022 </time>
+## Projects
+### CUSEC Verifier <time> Jan 2024 </time>
+<location>CUSEC: Canaidan University Software Engineering Conference</location>
 
-<location> STROBE NSF Science and Technology Center on Real-Time Functional Imaging <br/> Department of Physics, Florida International University, PI: Jin He </location>
+[github.com/khathepham/CUSEC-Verifier](https://github.com/khathepham/CUSEC-Verifier)
+- Developed a webserver that verifies CUSEC 2024 ticket holders so they can access the CUSEC 2024 Discord, admitting over 250 users.
+- Hosted on Google App Engine as a Python Flask application, which uses Tally.so webhooks, Ticket Tailor API, and Discord API.  
 
-- Fabricated and functionalized gold nanorods for promoting maturation of engineered cardiac tissues
-- Characterized gold nanorods using UV-visible spectroscopy and Raman spectroscopy
-- Measured contractile force of cardiac tissues by analyzing brightfield microscopy video data with Python
-- Processed confocal microscopy images of T-tubular systems of cardiomyocytes with Python
+### SpooderSnake-42 <time> July 2023 </time>
+<location> RBC Battlesnake Tournament </location>
 
-### Calculus Teaching Assistant <time> Sep 2018 – May 2019 </time>
+[github.com/Derzz/battlesnek](https://github.com/Derzz/battlesnek)
 
-<location> Kinglee High School </location>
+- Created an API that controls a snake on the Battlesnakes platform. Achieved top 40 status on the Battlesnakes ladder with collaboration from fellow RBC Co-ops. 
+-  Built using Python, AWS API Gateway, and AWS Lambda. 
 
-- Gave AP Calculus AB lectures 4 hours weekly to 5 students in alignment with CollegeBoard curriculum
-- Clarified complex concepts and common confusions about calculus with classroom activities
-- Worked with supervisor to design and grade concept checks, homework, and quizzes with tight deadlines
+### Circuit Breaker <time> Jan. 2023</time>
+<location>UManitoba Comp. Sci. Students' Assosiation Game Jam</location>
 
-## Other Experience
+[github.com/khathepham/CSGameJam-2023](https://github.com/khathepham/CSGameJam-2023) | [marshmallows7920.itch.io/circuit-breaker](https://marshmallows7920.itch.io/circuit-breaker)
 
-### Webmaster <time> Apr 2022 – Present </time>
+- Facilitated teamwork to brainstorm and develop a game in 72 hours to tie in to the theme of "Glitch". 
+- Aimed for players to play the role of the cat that gets into the owner’s computer and breaks circuits via mini-games with the intended result of having the owner can spend more time with the cat.
+- Created and mixed a portion of the game music to build anticipation during gameplay.
 
-<location> American Institute of Chemical Engineers (AIChE), University of Washington </location>
+### Avalibility Finder <time> Jan. 2022 - May 2022 </time>
+<location>Human-Computer Interaction Course Project</location>
 
-- Managed and designed official website; monitored and updated social media accounts and email list
-- Coordinated with internal and external media efforts to ensure up-to-date online presence
-- Facilitated coordination of ChemE BBQ event and graduation ceremony
+- Designed, prototyped, and documented an interface following HCI principles that was aimed at users that need a convenient way to find availability and schedule meetings. 
+- Collaborated with classmates to gather knowledge, test protoypes, and review documentation.
 
-### Secretary <time> May 2021 – Present </time>
+###  Costco Parking Simulator <time>Jan. 2022</time>
+<location>UManitoba Comp. Sci. Students' Assosiation Game Jam</location>
 
-<location> Women in Chemical Engineering, University of Washington </location>
+[github.com/Marshmallows7920/CSSAGameJam2022](https://github.com/Marshmallows7920/CSSAGameJam2022) | [marshmallows7920.itch.io/costco-parking-simulator](https://marshmallows7920.itch.io/costco-parking-simulator)
+- Collaborated to brainstorm and develop a game in 72 hours to tie in to the theme of "Space" using Unity Game Engine for development, and Figma for brainstorming. 
+- Aimed for players to find a parking spot in a busy parking lot.
 
-- Kept transparent meeting records, managed member email list, and maintained student group registration
-- Composed biweekly newsletters to 400+ members to update events, resources, and diversity highlights
-- Facilitated coordination of Veteran's Day event, Wiki-edit-a-thon, and International Women's Day event
 
-### Research and Development Officer <time> Apr 2020 – Jun 2021 </time>
 
-<location> Chinese Students and Scholars Association, University of Washington </location>
+## Other Work and Volunteer Experience
 
-- Designed, crafted, and edited posters and videos for major events, such as Student Orientation Programs
-- Assisted in maintenance of official blog and website to provide resources based on students' need
+### Director of Logistics  <time> Apr. 2023 – Feb. 2024 </time>
 
-### Maple Hall Council SEED Representative <time> Oct 2019 – Mar 2020 </time>
+<location> CUSEC: Canadian Unviersity Software Engineering Conference - 2024</location>
 
-<location> Housing and Food Services, University of Washington </location>
+- Managed communication between the CUSEC team and the venue to ensure a smooth-running conference for over 300 attendees.
+- Coordinated with other internal teams to create, maintain, and make public a schedule for CUSEC 2024.
 
-- Led committee meetings and planned campus-wide competition that raised waste sorting awareness
-- Attended weekly hall council and SEED meetings to liaise feedback and updates on activities and initiatives
+### Director of External Affairs <time> July 2023 - present </time>
+<location> .devClub, University of Manitoba, Winnipeg, Man., Canada
 
-### Peer Tutor of Math, Science, and English <time> Sep 2016 – Jun 2019 </time>
+- Outreaching and Negotiating with sponsors to help fund events for over 300 students.
+- Planned and ran a workshop designed for upper year students to learn about API development and new tools such as Flask, attracting over 100 attendees to participate in the ensuing Battlesnake tournament.
 
-<location> Kinglee High School </location>
+### Customs Broker <time> June 2022 – May 2023 </time>
 
-- Taught active reading and note-taking strategies to English as a second language (ESL) students
-- Reviewed course notes, clarified complex concepts, and provided feedback for course assignments
-- Received 2 Peer Tutor Awards in recognition of outstanding contribution to the peer tutoring program
+<location> Frontier Supply Chain Services, Winnipeg, Man., Canada </location>
 
-### Student Council Historian and Secretary <time> Oct 2017 – Jun 2019 </time>
+- Accurately processed customs documents for shipments entering Canada.
 
-<location> Kinglee High School </location>
+### Director of Sponsorship <time> Apr 2020 – Jun 2021 </time>
 
-- Prepared, coordinated, and executed activities, including Halloween activities, Thanksgiving Bonfire Nights, Christmas celebrations, Spirit Weeks, and Academic Integrity Seminar
-- Drafted, edited, and updated activity proposals and meeting minutes for iterative improvement of execution
-- Raised 1000+ CNY funds and 200+ books for children in need with fundraising events
+<location> CUSEC: Canadian University Software Engineering Conference</location>
 
-### Lab Peer Supervisor <time> Mar 2017 – Mar 2019 </time>
+- Key stakeholder in organizing a software engineering conference with over 200 students accross Canada by securing sponsors, negotiating contracts, and communicating and confirming details by email, video chat, and phone calls.
 
-<location> Kinglee High School </location>
+### Junior Business Analyst <time> Jan. 2022 – May 2022 </time>
 
-- Supervised biology, chemistry, and physics lab practices of 9th-grade students for Zhongzhao Examination
-- Taught lab safety guidelines, standard lab procedures, and best practices, as well as ensured lab safety
+<location>Information Services and Technology, University of Manitoba, Winnipeg, Man., Canada  </location>
 
+- Initialized the overhaul process for the transition from Classic Sharepoint to Modern Sharepoint for the University's internal IT Site.
+
+### Sales Consultant <time> Aug. 2018 – Aug 2021 </time>
+
+<location> Best Buy, Blaine, Minn., USA </location>
+
+- Maximized customer satisfaction by identifying and assessing customer needs, analyzing all possible options, and thoroughly advising them of their best solutions, delivering a yearly Net Promoter Score of 98/100.
+
+### Tea Barista <time> May 2019 – Aug 2021 </time>
+
+<location> Tii Cup, Minneapolis, Minn., USA </location>
+
+- Trained new members to maintain consistant quality of services.
+- Streamlined inventory process to ensure timely deliveries.
+
+### Mathematics Tutor <time> Mar 2017 – Mar 2019 </time>
+
+<location> Mathnasium, Blaine, Minn., USA </location>
+
+- Tutored children K-12 on a variety of mathematics concepts.
+- Tracked students progress and accomplishments to analyze and adjust tutoring methods.
 <!-- Detail checks: 1. No period for each bullet; 2. Past tense for previous work; 3. Present tense for current work; 4. Spell check passed; 5. Grammarly check passed; 6. Sync with Linkedin; 7. Check paper format -->
