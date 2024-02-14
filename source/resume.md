@@ -25,7 +25,7 @@ Minneapolis, Minn., USA | Winnipeg, Man., Canada
   <location> Brooklyn Park, Minn., USA </location>
 - A.S. Computer Science Transfer Pathway
 
-### Anoka-Ramsey Community College <time>Aug. 2017 - May 2019</time>
+<!-- ### Anoka-Ramsey Community College <time>Aug. 2017 - May 2019</time>
 <location> Coon Rapids, Minn., USA </location>
 - A.S. Computer Science Transfer Pathway
 - High School Diploma
@@ -34,90 +34,108 @@ Minneapolis, Minn., USA | Winnipeg, Man., Canada
 <location> Coon Rapids, Minn., USA </location>
 
 - AP Scholar with Honors
-- Questbridge Finalist
+- Questbridge Finalist -->
 
 ## Relevant Experience
 
-### Site Reliability Engineer, Developer Internship <time> Nov 2020 – Present </time>
+### Site Reliability Engineer, Developer Internship <time> May 2024 - Aug. 2024</time>
 
 <location> API Platforms and DevOps - Technology and Operations - Royal Bank of Canada </location>
 
-- Developed automation, internal web pages, and scripts using Python, Ansible Automation, Jenkins, and Dynatrace to allow the API Platform and DevOps team to monitor, be notified of, and fix outages and potential issues. 
+- Developed a suite of automation scripts and internal web pages using a range of tools such as Python, Ansible Automation, Jenkins, and Dynatrace to allow the API Platform and DevOps team to monitor, be notified of, and fix outages and potential issues. 
+- Engineered and implemented a comprehensive monitoring and notification system that proactively detects, alerts, and facilitates swift resolution of outages and potential issues,
 
 ## Projects
+### .devHacks Registration Platform <time>Jan. 2024 - Feb. 2024</time>
+<location>.devClub, Man., Canada</location>
+- Spearheaded the development of a comprehensive registration platform for .devHacks, enabling streamlined registration for over 150 attendees and facilitating efficient QR code-based check-in for executives.
+- Leveraged Google App Engine and Python Flask for the webserver architecture, integrating Tally.so's webhooks for seamless registration processing and Notion's API for effective attendee management.
+
 ### CUSEC Verifier <time> Jan 2024 </time>
 <location>CUSEC: Canaidan University Software Engineering Conference</location>
 
 [github.com/khathepham/CUSEC-Verifier](https://github.com/khathepham/CUSEC-Verifier)
-- Developed a webserver that verifies CUSEC 2024 ticket holders so they can access the CUSEC 2024 Discord, admitting over 250 users.
-- Hosted on Google App Engine as a Python Flask application, which uses Tally.so webhooks, Ticket Tailor API, and Discord API.  
+- Engineered a Python Flask webserver on Google App Engine to authenticate CUSEC 2024 ticket holders, facilitating secure Discord access for over 250 attendees with minimal entry barriers.
+- Demonstrated adeptness in integrating diverse APIs — Tally.so for real-time verification, Ticket Tailor for attendee management, and Discord for automated access control—enhancing the user experience.
+<!-- - Ensured scalability and reliable performance, contributing significantly to a vibrant online community and improved participant engagement for the conference. -->
 
 ### SpooderSnake-42 <time> July 2023 </time>
 <location> RBC Battlesnake Tournament </location>
 
 [github.com/Derzz/battlesnek](https://github.com/Derzz/battlesnek)
 
-- Created an API that controls a snake on the Battlesnakes platform. Achieved top 40 status on the Battlesnakes ladder with collaboration from fellow RBC Co-ops. 
--  Built using Python, AWS API Gateway, and AWS Lambda. 
+- Engineered a dynamic API with a team of RBC Co-Ops to maneuver a virtual snake in the competitive environment of the Battlesnakes platform, culminating in a prestigious top 40 ranking amidst intense competition.
+- Leveraged Python for the core algorithm development, AWS API Gateway for seamless integration and communication, and AWS Lambda for scalable, serverless execution, ensuring high availability and responsiveness under tournament conditions.
+<!-- - Collaborated closely with fellow RBC co-op students to refine strategies, optimize the snake's AI for tactical advancement, and troubleshoot under pressure, demonstrating exceptional teamwork and problem-solving skills. -->
 
-### Circuit Breaker <time> Jan. 2023</time>
+<!-- ### Circuit Breaker <time> Jan. 2023</time>
 <location>UManitoba Comp. Sci. Students' Assosiation Game Jam</location>
 
 [github.com/khathepham/CSGameJam-2023](https://github.com/khathepham/CSGameJam-2023) | [marshmallows7920.itch.io/circuit-breaker](https://marshmallows7920.itch.io/circuit-breaker)
 
 - Facilitated teamwork to brainstorm and develop a game in 72 hours to tie in to the theme of "Glitch". 
 - Aimed for players to play the role of the cat that gets into the owner’s computer and breaks circuits via mini-games with the intended result of having the owner can spend more time with the cat.
-- Created and mixed a portion of the game music to build anticipation during gameplay.
+- Created and mixed a portion of the game music to build anticipation during gameplay. -->
 
 ### Avalibility Finder <time> Jan. 2022 - May 2022 </time>
 <location>Human-Computer Interaction Course Project</location>
 
-- Designed, prototyped, and documented an interface following HCI principles that was aimed at users that need a convenient way to find availability and schedule meetings. 
-- Collaborated with classmates to gather knowledge, test protoypes, and review documentation.
+- Designed, prototyped, and documented an interface leveriging HCI principles  to streamline the process of finding availability and scheduling meetings for users seeking convenience and efficiency.
+<!-- - Employed a mix of qualitative and quantitative research methods, including surveys and usability testing, to gather user insights and validate design decisions, ensuring the final project effectively met user needs and expectations.
+- Fostered a collaborative environment within the project team, leading to the successful integration of diverse ideas into the prototype's development and the refinement of documentation through iterative feedback and peer reviews. -->
 
 ###  Costco Parking Simulator <time>Jan. 2022</time>
 <location>UManitoba Comp. Sci. Students' Assosiation Game Jam</location>
 
-[github.com/Marshmallows7920/CSSAGameJam2022](https://github.com/Marshmallows7920/CSSAGameJam2022) | [marshmallows7920.itch.io/costco-parking-simulator](https://marshmallows7920.itch.io/costco-parking-simulator)
-- Collaborated to brainstorm and develop a game in 72 hours to tie in to the theme of "Space" using Unity Game Engine for development, and Figma for brainstorming. 
-- Aimed for players to find a parking spot in a busy parking lot.
+[github.com/Marshmallows7920/CSSAGameJam2022](https://github.com/Marshmallows7920/CSSAGameJam2022) 
+<!-- | [marshmallows7920.itch.io/costco-parking-simulator](https://marshmallows7920.itch.io/costco-parking-simulator) -->
+<!-- - Spearheaded a collaborative effort to conceptualize and develop an innovative game within a 72-hour timeframe, aligning with the game jam's theme of "Space." Utilized Unity Game Engine for development and Figma for ideation and design brainstorming. -->
+- Engineered a unique gameplay experience where players navigate the challenge of finding a parking spot in a bustling Costco parking lot, creatively interpreting the "Space" theme by focusing on the scarcity of parking space.
 
 
 
-## Other Work and Volunteer Experience
+
+## Other Experience
+
+### Co-Chair <time> Feb. 2024 - Present</time>
+
+<location>CUSEC: Canadian Unviersity Software Engineering Conference - 2025
 
 ### Director of Logistics  <time> Apr. 2023 – Feb. 2024 </time>
 
 <location> CUSEC: Canadian Unviersity Software Engineering Conference - 2024</location>
 
-- Managed communication between the CUSEC team and the venue to ensure a smooth-running conference for over 300 attendees.
-- Coordinated with other internal teams to create, maintain, and make public a schedule for CUSEC 2024.
+- Orchestrated logistics operations for CUSEC 2024, ensuring effective communication between the conference team and the venue, which was instrumental in the smooth running of an event attended by over 300 software engineering students and professionals.
+- Facilitated collaboration among internal teams to develop and publicize the event schedule, leveraging meticulous planning and communication strategies to accommodate an array of speakers, workshops, and networking opportunities, thereby enhancing participant engagement.
 
 ### Director of External Affairs <time> July 2023 - present </time>
 <location> .devClub, University of Manitoba, Winnipeg, Man., Canada
 
-- Outreaching and Negotiating with sponsors to help fund events for over 300 students.
-- Planned and ran a workshop designed for upper year students to learn about API development and new tools such as Flask, attracting over 100 attendees to participate in the ensuing Battlesnake tournament.
+- Successfully engaged with industry sponsors, securing funding and the club hackathon, .devHacks, that catered to over 300 students, showcasing strong negotiation and relationship-building skills.
+- Orchestrated a comprehensive workshop on API development and emerging technologies, including Flask, drawing over 100 upper-year students. This initiative not only bolstered their technical knowledge but also significantly increased participation in the subsequent Battlesnake tournament.
+<!-- - Leveraged strategic planning and community outreach to enhance the club's visibility and provide members with invaluable learning and networking opportunities, furthering the club's mission to support student development in software engineering. -->
 
 ### Customs Broker <time> June 2022 – May 2023 </time>
 
 <location> Frontier Supply Chain Services, Winnipeg, Man., Canada </location>
 
-- Accurately processed customs documents for shipments entering Canada.
+<!-- - Expertly managed the processing of customs documentation for shipments entering Canada, ensuring compliance with all regulatory requirements and facilitating smooth cross-border transactions. -->
+
 
 ### Director of Sponsorship <time> Apr 2020 – Jun 2021 </time>
 
 <location> CUSEC: Canadian University Software Engineering Conference</location>
+<!-- 
+- Played a pivotal role in the orchestration of a national software engineering conference, attracting over 200 students from across Canada through strategic sponsorship acquisition, contract negotiation, and meticulous coordination of details via email, video chat, and phone.
+- Enhanced the conference's profile and financial stability by establishing and maintaining robust relationships with sponsors, ensuring a diverse range of industry support that enriched the event's offerings and attendee experience. -->
 
-- Key stakeholder in organizing a software engineering conference with over 200 students accross Canada by securing sponsors, negotiating contracts, and communicating and confirming details by email, video chat, and phone calls.
+<!-- ### Junior Business Analyst <time> Jan. 2022 – May 2022 </time>
 
-### Junior Business Analyst <time> Jan. 2022 – May 2022 </time>
+<location>Information Services and Technology, University of Manitoba, Winnipeg, Man., Canada  </location> -->
 
-<location>Information Services and Technology, University of Manitoba, Winnipeg, Man., Canada  </location>
+<!-- - Initialized the overhaul process for the transition from Classic Sharepoint to Modern Sharepoint for the University's internal IT Site. -->
 
-- Initialized the overhaul process for the transition from Classic Sharepoint to Modern Sharepoint for the University's internal IT Site.
-
-### Sales Consultant <time> Aug. 2018 – Aug 2021 </time>
+<!-- ### Sales Consultant <time> Aug. 2018 – Aug 2021 </time>
 
 <location> Best Buy, Blaine, Minn., USA </location>
 
@@ -135,5 +153,5 @@ Minneapolis, Minn., USA | Winnipeg, Man., Canada
 <location> Mathnasium, Blaine, Minn., USA </location>
 
 - Tutored children K-12 on a variety of mathematics concepts.
-- Tracked students progress and accomplishments to analyze and adjust tutoring methods.
+- Tracked students progress and accomplishments to analyze and adjust tutoring methods. -->
 <!-- Detail checks: 1. No period for each bullet; 2. Past tense for previous work; 3. Present tense for current work; 4. Spell check passed; 5. Grammarly check passed; 6. Sync with Linkedin; 7. Check paper format -->
