@@ -14,12 +14,11 @@ Minneapolis, Minn., USA | Winnipeg, Man., Canada
 </span>
 
 ## Skills
-Programming and Markup Languages : Python, Java, C#, SQL, C, C++, Javascript, HTML, CSS, Markdown.
+Programming and Markup Languages : Python, Java, C#, SQL, C, C++, Javascript, HTML, CSS.
 
-Technologies: Ansible Tower, AWS (API Gateway, Lambda, EC2), CI/CD, Dynatrace, Flask, Git, Godot,
+Technologies: Ansible Tower, AWS (API Gateway, Lambda, EC2), CI/CD, Dynatrace, Flask, Git,
 
-GCP (Compute, App Engine),  Jenkins, Linux, Mac, REST API, Unity, Webhooks, Webservers, Windows
-
+CCP (Compute Engine, App Engine), Jenkins, Linux, Mac, REST API.
 ## Education
 
 ### University of Manitoba <time> Sept. 2021 - Present </time>
@@ -50,19 +49,19 @@ GCP (Compute, App Engine),  Jenkins, Linux, Mac, REST API, Unity, Webhooks, Webs
 <location> API Platforms and DevOps - Technology and Operations - Royal Bank of Canada </location>
 
 - Developed a suite of automation scripts and internal web pages using a range of tools such as Python, Ansible Automation, Jenkins, and Dynatrace to allow the API Platform and DevOps team to monitor, be notified of, and fix outages and potential issues. 
-- Engineered and implemented a comprehensive monitoring and notification system that proactively detects, alerts, and facilitates swift resolution of outages and potential issues,
+- Implemented a comprehensive monitoring and notification system that proactively detects, alerts, and facilitates swift resolution of outages and potential issues,
 
 ## Projects
 ### .devHacks Registration Platform <time>Jan. 2024 - Feb. 2024</time>
 <location>.devClub, Man., Canada</location>
 - Spearheaded the development of a comprehensive registration platform for .devHacks, enabling streamlined registration for over 150 attendees and facilitating efficient QR code-based check-in for executives.
-- Leveraged Google App Engine and Python Flask for the webserver architecture, integrating Tally.so's webhooks for seamless registration processing and Notion's API for effective attendee management.
+- Utilized Google App Engine and Python Flask for the webserver architecture, integrating Tally.so's webhooks for seamless registration processing and Notion's API for effective attendee management.
 
 ### CUSEC Verifier <time> Jan 2024 </time>
 <location>CUSEC: Canaidan University Software Engineering Conference</location>
 
 [github.com/khathepham/CUSEC-Verifier](https://github.com/khathepham/CUSEC-Verifier)
-- Engineered a Python Flask webserver on Google App Engine to authenticate CUSEC 2024 ticket holders, facilitating secure Discord access for over 250 attendees with minimal entry barriers.
+- Constructed a Python Flask webserver on Google App Engine to authenticate CUSEC 2024 ticket holders, facilitating secure Discord access for over 250 attendees with minimal entry barriers.
 - Demonstrated adeptness in integrating diverse APIs — Tally.so for real-time verification, Ticket Tailor for attendee management, and Discord for automated access control—enhancing the user experience.
 <!-- - Ensured scalability and reliable performance, contributing significantly to a vibrant online community and improved participant engagement for the conference. -->
 
@@ -71,7 +70,7 @@ GCP (Compute, App Engine),  Jenkins, Linux, Mac, REST API, Unity, Webhooks, Webs
 
 [github.com/Derzz/battlesnek](https://github.com/Derzz/battlesnek)
 
-- Engineered a dynamic API with a team of RBC Co-Ops to maneuver a virtual snake in the competitive environment of the Battlesnakes platform, culminating in a prestigious top 40 ranking amidst intense competition.
+- Designed and implemented a REST API with a team of RBC Co-Ops to maneuver a virtual snake in the competitive environment of the Battlesnakes platform, culminating in a prestigious top 40 global ranking amidst intense competition.
 - Leveraged Python for the core algorithm development, AWS API Gateway for seamless integration and communication, and AWS Lambda for scalable, serverless execution, ensuring high availability and responsiveness under tournament conditions.
 <!-- - Collaborated closely with fellow RBC co-op students to refine strategies, optimize the snake's AI for tactical advancement, and troubleshoot under pressure, demonstrating exceptional teamwork and problem-solving skills. -->
 
@@ -87,7 +86,7 @@ GCP (Compute, App Engine),  Jenkins, Linux, Mac, REST API, Unity, Webhooks, Webs
 ### Avalibility Finder <time> Jan. 2022 - May 2022 </time>
 <location>Human-Computer Interaction Course Project</location>
 
-- Designed, prototyped, and documented an interface leveriging HCI principles  to streamline the process of finding availability and scheduling meetings for users seeking convenience and efficiency.
+- Designed, prototyped, and documented an interface leveraging HCI principles  to streamline the process of finding availability and scheduling meetings for users seeking convenience and efficiency.
 <!-- - Employed a mix of qualitative and quantitative research methods, including surveys and usability testing, to gather user insights and validate design decisions, ensuring the final project effectively met user needs and expectations.
 - Fostered a collaborative environment within the project team, leading to the successful integration of diverse ideas into the prototype's development and the refinement of documentation through iterative feedback and peer reviews. -->
 
@@ -117,7 +116,7 @@ GCP (Compute, App Engine),  Jenkins, Linux, Mac, REST API, Unity, Webhooks, Webs
 <location> .devClub, University of Manitoba, Winnipeg, Man., Canada
 
 - Successfully engaged with industry sponsors, securing funding and the club hackathon, .devHacks, that catered to over 300 students, showcasing strong negotiation and relationship-building skills.
-- Orchestrated a comprehensive workshop on API development and emerging technologies, including Flask, drawing over 100 upper-year students. This initiative not only bolstered their technical knowledge but also significantly increased participation in the subsequent Battlesnake tournament.
+- Hosted a comprehensive workshop on API development and emerging technologies, including Flask, drawing over 100 upper-year students. This initiative not only bolstered their technical knowledge but also significantly increased participation in the subsequent Battlesnake tournament.
 <!-- - Leveraged strategic planning and community outreach to enhance the club's visibility and provide members with invaluable learning and networking opportunities, furthering the club's mission to support student development in software engineering. -->
 
 ### Customs Broker <time> June 2022 – May 2023 </time>
