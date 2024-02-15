@@ -13,6 +13,13 @@ Minneapolis, Minn., USA | Winnipeg, Man., Canada
 
 </span>
 
+## Skills
+Programming and Markup Languages : Python, Java, C#, SQL, C, C++, Javascript, HTML, CSS, Markdown.
+
+Technologies: Ansible Tower, AWS (Lambda, API Gateway), CI/CD, Dynatrace, Flask, Git, Godot,
+
+GCP (Compute, App Engine),  Jenkins, Linux, Mac, REST API, Unity, Webhooks, Webservers, Windows
+
 ## Education
 
 ### University of Manitoba <time> Sept. 2021 - Present </time>
@@ -91,8 +98,6 @@ Minneapolis, Minn., USA | Winnipeg, Man., Canada
 <!-- | [marshmallows7920.itch.io/costco-parking-simulator](https://marshmallows7920.itch.io/costco-parking-simulator) -->
 <!-- - Spearheaded a collaborative effort to conceptualize and develop an innovative game within a 72-hour timeframe, aligning with the game jam's theme of "Space." Utilized Unity Game Engine for development and Figma for ideation and design brainstorming. -->
 - Engineered a unique gameplay experience where players navigate the challenge of finding a parking spot in a bustling Costco parking lot, creatively interpreting the "Space" theme by focusing on the scarcity of parking space.
-
-
 
 
 ## Other Experience
