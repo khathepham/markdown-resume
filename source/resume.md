@@ -16,7 +16,7 @@ Minneapolis, Minn., USA | Winnipeg, Man., Canada
 ## Skills
 Programming and Markup Languages : Python, Java, C#, SQL, C, C++, Javascript, HTML, CSS, Markdown.
 
-Technologies: Ansible Tower, AWS (Lambda, API Gateway), CI/CD, Dynatrace, Flask, Git, Godot,
+Technologies: Ansible Tower, AWS (API Gateway, Lambda, EC2), CI/CD, Dynatrace, Flask, Git, Godot,
 
 GCP (Compute, App Engine),  Jenkins, Linux, Mac, REST API, Unity, Webhooks, Webservers, Windows
 
