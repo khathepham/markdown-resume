@@ -44,12 +44,12 @@ CCP (Compute Engine, App Engine), Jenkins, Linux, Mac, REST API.
 
 ## Relevant Experience
 
-### Site Reliability Engineer, Developer Internship <time> May 2024 - Aug. 2024</time>
+### Site Reliability Engineer, Developer Internship <time> May 2023 - Aug. 2023</time>
 
 <location> API Platforms and DevOps - Technology and Operations - Royal Bank of Canada </location>
 
 - Developed a suite of automation scripts and internal web pages using a range of tools such as Python, Ansible Automation, Jenkins, and Dynatrace to allow the API Platform and DevOps team to monitor, be notified of, and fix outages and potential issues. 
-- Implemented a comprehensive monitoring and notification system that proactively detects, alerts, and facilitates swift resolution of outages and potential issues,
+- Implemented a comprehensive monitoring and notification system that proactively detects, alerts, and facilitates swift resolution of outages and potential issues.
 
 ## Projects
 ### .devHacks Registration Platform <time>Jan. 2024 - Feb. 2024</time>
@@ -107,7 +107,7 @@ CCP (Compute Engine, App Engine), Jenkins, Linux, Mac, REST API.
 
 ### Director of Logistics  <time> Apr. 2023 – Feb. 2024 </time>
 
-<location> CUSEC: Canadian Unviersity Software Engineering Conference - 2024</location>
+<location> CUSEC: Canadian University Software Engineering Conference - 2024</location>
 
 - Orchestrated logistics operations for CUSEC 2024, ensuring effective communication between the conference team and the venue, which was instrumental in the smooth running of an event attended by over 300 software engineering students and professionals.
 - Facilitated collaboration among internal teams to develop and publicize the event schedule, leveraging meticulous planning and communication strategies to accommodate an array of speakers, workshops, and networking opportunities, thereby enhancing participant engagement.
