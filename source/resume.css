@@ -92,6 +92,12 @@ time {
     font-weight: bold;
 }
 
+timex {
+    float: right;
+    font-size: inherit;
+    font-weight: normal;
+}
+
 location {
     font-weight: normal;
     font-style: italic;
