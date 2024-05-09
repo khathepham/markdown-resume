@@ -1,14 +1,15 @@
 <link rel="stylesheet" type="text/css" href="resume.css">
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto Slab">
 
-<span class="name">Kha Pham</span>
+<span class="name">Kha The Pham</span>
 
 <span class="info">
 
 [![Phone](https://img.icons8.com/ios-filled/50/apple-phone.png) +1 (763) 862-8376](tel:+17638628376) |[![Mail](https://simpleicons.org/icons/minutemailer.svg) contact@khathepham.com](mailto:contact@khathepham.com) |
 [![GitHub](https://simpleicons.org/icons/github.svg) github.com/khathepham](https://github.com/khathepham)
 
-Minneapolis, Minn., USA | Winnipeg, Man., Canada
+12125 Martin St NW, Coon Rapids, MN 55448-1999
+
 
 
 </span>
@@ -25,44 +26,45 @@ Additional Skills: Agile, Data Structures and Algorithms, Database Design and Im
 ## Education
 
 ### University of Manitoba <time> Sept. 2021 - Present </time>
-<location> Winnipeg, Man., Canada </location>
+<location> Winnipeg, Man., Canada &nbsp; R3T 2N2</location>
 - B.S. in Computer Science
 - Expected Graduation: Apr. 2024
 - Dean's List
 
 ### North Hennepin Community College <time> Aug. 2019 - May 2021 </time>
-  <location> Brooklyn Park, Minn., USA </location>
+  <location> Brooklyn Park, Minn., USA 55445 </location>
 - A.S. Computer Science Transfer Pathway
 
-<!-- ### Anoka-Ramsey Community College <time>Aug. 2017 - May 2019</time>
-<location> Coon Rapids, Minn., USA </location>
+### Anoka-Ramsey Community College <time>Aug. 2017 - May 2019</time>
+<location> Coon Rapids, Minn., USA 55433 </location>
 - A.S. Computer Science Transfer Pathway
 - High School Diploma
 
 ### Coon Rapids High School <time>Sept. 2014 - June 2019</time>
-<location> Coon Rapids, Minn., USA </location>
-
+<location> Coon Rapids, Minn., USA 55433</location>
+- High School Diploma
 - AP Scholar with Honors
-- Questbridge Finalist -->
+- Questbridge Finalist
 
 ## Relevant Experience
 
 ### Site Reliability Engineer, Developer Internship <time> May 2023 - Aug. 2023</time>
 
-<location>Royal Bank of Canada - Technology and Operations - API Platforms and DevOps</location>
-
+<location>Royal Bank of Canada - Technology and Operations - API Platforms and DevOps <br> 88 Queens Quay W, Toronto, Ont. M5J 1B7, Canada
+</location>
+- Full Time (40h/w)
 - Developed a suite of automation scripts and internal web pages using a range of tools such as Python, Ansible Automation, Jenkins, and Dynatrace to allow the API Platform and DevOps team to monitor, be notified of, and fix outages and potential issues. 
 - Implemented a comprehensive monitoring and notification system that proactively detects, alerts, and facilitates swift resolution of outages and potential issues.
 
 ## Projects
 ### .devHacks Registration Platform <time>Jan. 2024 - Feb. 2024</time>
-<location>.devClub, Man., Canada</location>
+<location>.devClub<br>University of Manitoba, Winnipeg Man., Canada</location>
 - Spearheaded the development of a comprehensive registration platform for .devHacks, enabling streamlined registration for over 150 attendees and facilitating efficient QR code-based check-in for executives.
 - Utilized Google App Engine and Python Flask for the webserver architecture, integrating Tally.so's webhooks for seamless registration processing and Notion's API for effective attendee management.
 - Continuously updated the server during the 24-hour hackathon to adapt to necessary changes, such as reusing the tickets as lunch vouchers, to keep the event running as smooth as possible.
 
 ### CUSEC Verifier <time> Jan 2024 </time>
-<location>CUSEC: Canaidan University Software Engineering Conference</location>
+<location>CUSEC: Canaidan University Software Engineering Conference<br> Canada</location>
 
 [github.com/khathepham/CUSEC-Verifier](https://github.com/khathepham/CUSEC-Verifier)
 - Constructed a Python Flask webserver on Google App Engine to authenticate CUSEC 2024 ticket holders, facilitating secure Discord access for over 250 attendees with minimal entry barriers.
@@ -70,7 +72,7 @@ Additional Skills: Agile, Data Structures and Algorithms, Database Design and Im
 <!-- - Ensured scalability and reliable performance, contributing significantly to a vibrant online community and improved participant engagement for the conference. -->
 
 ### SpooderSnake-42 <time> July 2023 </time>
-<location> RBC Battlesnake Tournament </location>
+<location> RBC Battlesnake Tournament <br> Royal Bank of Canada, 88 Queens Quay W, Toronto, Ont. &nbsp; M5J 1B6, Canada</location>
 
 [github.com/Derzz/battlesnek](https://github.com/Derzz/battlesnek)
 
@@ -88,7 +90,7 @@ Additional Skills: Agile, Data Structures and Algorithms, Database Design and Im
 - Created and mixed a portion of the game music to build anticipation during gameplay. -->
 
 ### Avalibility Finder <time> Jan. 2022 - May 2022 </time>
-<location>Human-Computer Interaction Course Project</location>
+<location>Human-Computer Interaction Course Project <br> University of Manitoba, Winnipeg, Man., </location>
 
 - Designed, prototyped, and documented an interface leveraging HCI principles  to streamline the process of finding availability and scheduling meetings for users seeking convenience and efficiency.
 <!-- - Employed a mix of qualitative and quantitative research methods, including surveys and usability testing, to gather user insights and validate design decisions, ensuring the final project effectively met user needs and expectations.
@@ -108,6 +110,8 @@ Additional Skills: Agile, Data Structures and Algorithms, Database Design and Im
 ### Co-Chair <time> Feb. 2024 - Present</time>
 
 <location>CUSEC: Canadian Unviersity Software Engineering Conference - 2025
+- Part Time (Variable Hours)
+- Responsible for managing a team of 25 people to create a successful conference of over 300 attendees.
 
 ### Director of Logistics  <time> Apr. 2023 – Feb. 2024 </time>
 
