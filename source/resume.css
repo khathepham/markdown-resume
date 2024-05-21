@@ -5,11 +5,11 @@ html {
 
 body {
     display: block;
-    max-width: 700px;
+    max-width: 750px;
     margin: 0 auto;
     padding: 0;
     font-family: "Roboto Slab";
-    font-size: 14px;
+    font-size: 10.5px;
 }
 
 .name {
@@ -25,7 +25,7 @@ h1 {
     text-align: center;
     font-weight: bold;
     padding: 0;
-    margin: 1.5rem 0;
+    margin: 1.25rem 0;
     font-size: 2em;
 }
 
@@ -34,14 +34,14 @@ h2 {
     font-weight: bold;
     border-bottom: 2px solid black !important;
     color: #0D47A1;
-    margin: 10px 0 5px 0;
+    margin: 5px 0 5px 0;
     padding: 0 0 2px 0;
 }
 
 h3 {
     font-size: 1em;
     font-weight: bold;
-    margin: .5em 0 0 0;
+    margin: .4em 0 0 0;
 }
 
 h4 {
@@ -51,7 +51,7 @@ h4 {
 }
 
 p, ul {
-    font-size: 100%;
+    font-size: .95em;
     margin: 0;
 }
 
