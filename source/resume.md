@@ -6,10 +6,9 @@
 <span class="info">
 
 [![Phone](https://img.icons8.com/ios-filled/50/apple-phone.png) +1 (763) 862-8376](tel:+17638628376) |[![Mail](https://simpleicons.org/icons/minutemailer.svg) contact@khathepham.com](mailto:contact@khathepham.com) |
-[![GitHub](https://simpleicons.org/icons/github.svg) github.com/khathepham](https://github.com/khathepham)
+[![GitHub](https://simpleicons.org/icons/github.svg) github.com/khathepham](https://github.com/khathepham) | [![Linkedin](https://simpleicons.org/icons/linkedin.svg) linkedin.com/in/khathepham](https://www.linkedin.com/in/khathepham) | EN/VI
 
-Minneapolis, Minn., USA | Winnipeg, Man., Canada
-
+Minneapolis, Minnesota, USA - Able to Relocate and Work in the US and Canada.
 
 </span>
 
@@ -43,26 +42,26 @@ Minneapolis, Minn., USA | Winnipeg, Man., Canada
 
 <!-- - Skills used: Python, Flask, Ansible, Jenkins, Dynatrace, Agile, SCRUM, Git, GitHub, REST API, HTML/CSS/JS, TypeScript, Redis Server, Databases. -->
 - Engineered a monitoring tool to oversee the health of multiple core Dynatrace clusters, implementing automated alerts that notify team members via email and Slack when performance falls below predefined thresholds.
-- Developed a Python and Ansible-based automation tool that streamlined the process of managing team permissions by enabling modifications through a single editable file, automatically updating access rights, groups, and tags for employees on the internal GitHub platform
+- Developed a Python and Ansible-based automation tool that streamlined the process of managing team permissions by enabling modifications through a single editable file, automatically updating access rights, groups, and tags for employees on the internal GitHub platform.
 <!-- - Implemented a comprehensive monitoring and notification system that proactively detects, alerts, and facilitates swift resolution of outages and potential issues. -->
 
 ## Projects
 
 ### Hackform, a Hackathon Organization Platform <time> May 2024 - Present </time>
-- Leading the development of a generalized hackathon management platform that allows organizers to manage registrations, ticking, and judging, all in a centralized location.
+- Leading the development of a generalized hackathon management platform that allows organizers to manage registrations, ticketing, and judging, all in a centralized location.
 - Utilized React.js, TailwindCSS, and Vite for the front end, and Kotlin with Maven and Springboot for the backend.
 
 ### .devHacks Registration Platform <time>Jan. 2024 - Feb. 2024</time>
 
 <!-- - Skills: Python, Flask, Google Cloud Platform, Git, GitHub, REST API, HTML, CSS, JS, Node. -->
-- Spearheaded the development of a comprehensive registration platform for .devHacks, enabling streamlined registration for over 150 attendees and facilitating efficient QR code-based check-in for executives.
+- Spearheaded the development of a comprehensive registration platform for .devHacks, enabling streamlined registration for over 300 attendees and facilitating efficient QR code-based check-in for executives.
 - Utilized Google App Engine and Python Flask for the webserver architecture, integrating Tally.so's webhooks for seamless registration processing and Notion's API for effective attendee management.
 - Continuously updated the server during the 24-hour hackathon to adapt to necessary changes, such as reusing the tickets as lunch vouchers, to keep the event running as smooth as possible.
 
 ### Borealis - Software Engineering Course Project <time>Jan. 2024 - May 2024</time>
 <!-- - Skills: Android development, Java, Gradle, Maven, JUnit, Mockito, HSQLDB, Agile -->
-- Developed an Android application utilizing Java, Maven/Gradel, and HSQLDB that aims to replace the current course and student management system used by the University of Manitoba in order to streamline and it easier for students to register for courses.
-- Utilized Test-Driven Development using JUnit Testing and Mockito, though Android Studio.
+- Developed an Android application utilizing Java, Maven/Gradle, and HSQLDB that aims to replace the current course and student management system used by the University of Manitoba in order to streamline and it easier for students to register for courses.
+- Utilized Test-Driven Development using JUnit Testing and Mockito, though Android Studio, to ensure that time is used efficiently and limiting bugs during development.
 
 <!-- ### CUSEC Verifier <time> Jan 2024 </time>
 <location>CUSEC: Canaidan University Software Engineering Conference</location>
