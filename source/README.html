@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+        <html>
+        <head>
+            <meta charset="UTF-8">
+            <title>Markdown Resume &lt;img src&equals;&quot;https&colon;&sol;&sol;simpleicons&period;org&sol;icons&sol;markdown&period;svg&quot; width&equals;20&gt; &lt;img src&equals;&quot;https&colon;&sol;&sol;simpleicons&period;org&sol;icons&sol;visualstudiocode&period;svg&quot; width&equals;20&gt; &lbrack;&excl;&lbrack;License&rbrack;&lpar;https&colon;&sol;&sol;img&period;shields&period;io&sol;github&sol;license&sol;tengjuilin&sol;markdown-resume&rpar;&rbrack;&lpar;https&colon;&sol;&sol;opensource&period;org&sol;licenses&sol;MIT&rpar;</title>
+            <style>
+/* From extension vscode.github */
+/*---------------------------------------------------------------------------------------------
+ *  Copyright (c) Microsoft Corporation. All rights reserved.
+ *  Licensed under the MIT License. See License.txt in the project root for license information.
+ *--------------------------------------------------------------------------------------------*/
+
+.vscode-dark img[src$=\#gh-light-mode-only],
+.vscode-light img[src$=\#gh-dark-mode-only],
+.vscode-high-contrast:not(.vscode-high-contrast-light) img[src$=\#gh-light-mode-only],
+.vscode-high-contrast-light img[src$=\#gh-dark-mode-only] {
+	display: none;
+}
+
+</style>
+            
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
+<style>
+            body {
+                font-family: -apple-system, BlinkMacSystemFont, 'Segoe WPC', 'Segoe UI', system-ui, 'Ubuntu', 'Droid Sans', sans-serif;
+                font-size: 14px;
+                line-height: 1.6;
+            }
+        </style>
+        <style>
+.task-list-item {
+    list-style-type: none;
+}
+
+.task-list-item-checkbox {
+    margin-left: -20px;
+    vertical-align: middle;
+    pointer-events: none;
+}
+</style>
+<style>
+:root {
+  --color-note: #0969da;
+  --color-tip: #1a7f37;
+  --color-warning: #9a6700;
+  --color-severe: #bc4c00;
+  --color-caution: #d1242f;
+  --color-important: #8250df;
+}
+
+</style>
+<style>
+@media (prefers-color-scheme: dark) {
+  :root {
+    --color-note: #2f81f7;
+    --color-tip: #3fb950;
+    --color-warning: #d29922;
+    --color-severe: #db6d28;
+    --color-caution: #f85149;
+    --color-important: #a371f7;
+  }
+}
+
+</style>
+<style>
+.markdown-alert {
+  padding: 0.5rem 1rem;
+  margin-bottom: 16px;
+  color: inherit;
+  border-left: .25em solid #888;
+}
+
+.markdown-alert>:first-child {
+  margin-top: 0
+}
+
+.markdown-alert>:last-child {
+  margin-bottom: 0
+}
+
+.markdown-alert .markdown-alert-title {
+  display: flex;
+  font-weight: 500;
+  align-items: center;
+  line-height: 1
+}
+
+.markdown-alert .markdown-alert-title .octicon {
+  margin-right: 0.5rem;
+  display: inline-block;
+  overflow: visible !important;
+  vertical-align: text-bottom;
+  fill: currentColor;
+}
+
+.markdown-alert.markdown-alert-note {
+  border-left-color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-note .markdown-alert-title {
+  color: var(--color-note);
+}
+
+.markdown-alert.markdown-alert-important {
+  border-left-color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-important .markdown-alert-title {
+  color: var(--color-important);
+}
+
+.markdown-alert.markdown-alert-warning {
+  border-left-color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-warning .markdown-alert-title {
+  color: var(--color-warning);
+}
+
+.markdown-alert.markdown-alert-tip {
+  border-left-color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-tip .markdown-alert-title {
+  color: var(--color-tip);
+}
+
+.markdown-alert.markdown-alert-caution {
+  border-left-color: var(--color-caution);
+}
+
+.markdown-alert.markdown-alert-caution .markdown-alert-title {
+  color: var(--color-caution);
+}
+
+</style>
+        
+        </head>
+        <body class="vscode-body vscode-light">
+            <h1 id="markdown-resume---">Markdown Resume <img src="https://simpleicons.org/icons/markdown.svg" width=20> <img src="https://simpleicons.org/icons/visualstudiocode.svg" width=20> <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/github/license/tengjuilin/markdown-resume" alt="License"></a></h1>
+<p>Markdown resume provides a simple, elegant, and fast workflow to write resumes and CVs.</p>
+<ul>
+<li>Tired of formatting resumes in word documents? Try writing resumes in Markdown, converting it to html, then print to pdf.</li>
+<li>Applying to many jobs, and targeted resumes are hard to version control? Try writing resumes in Markdown and version control with Git.</li>
+</ul>
+<p>Because academic jobs require CVs instead of resumes, resume will not be updated, but CV will continue to be updated periodically. For the most recent CV, visit my <a href="https://tengjuilin.netlify.app/cv/cv_full/">personal website</a>.</p>
+<h2 id="prerequisite">Prerequisite</h2>
+<ol>
+<li>Download <a href="https://code.visualstudio.com/">VS Studio Code</a></li>
+<li>Install <a href="https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one">Markdown All in One</a> extension in VS Studio Code</li>
+</ol>
+<h2 id="workflow">Workflow</h2>
+<p>The workflow is quite simple:</p>
+<ol>
+<li>Have <code>resume.md</code> and <code>resume.css</code> in one directory.</li>
+<li>Open <code>resume.md</code> in VS Studio Code.</li>
+<li>Open Command Palette (Ctrl+Shift+P or Command+Shift+P) and search and use the command &quot;Markdown All in One: Print current document to HTML&quot;.
+<ol>
+<li>An html file will be generated in the directory</li>
+</ol>
+</li>
+<li>Open the html file in a browser.</li>
+<li>Use the browser's print functionality to &quot;print to pdf&quot; (typically Ctrl+P or Command+P).
+<ol>
+<li>The resume pdf can be saved to desired destination</li>
+</ol>
+</li>
+</ol>
+<p>Here are demos of the workflow in Windows and macOS:</p>
+<p><img src="file:////Users/khathepham/Documents/GitHub/markdown-resume/workflow-demo-win.gif" alt="Workflow Demo in Windows">
+<img src="file:////Users/khathepham/Documents/GitHub/markdown-resume/workflow-demo-macos.gif" alt="Workflow Demo in macOS"></p>
+<h2 id="directory-structure">Directory structure</h2>
+<ul>
+<li>Input
+<ul>
+<li><a href="source/resume.html"><code>resume.md</code></a> - content of resume</li>
+<li><a href="source/resume.css"><code>resume.css</code></a> - style of the printed resume</li>
+</ul>
+</li>
+<li>Output
+<ul>
+<li><a href="source/resume.html"><code>resume.html</code></a> - html file for web display or print to pdf</li>
+<li><a href="source/resume.pdf"><code>resume.pdf</code></a> - final resume pdf file</li>
+</ul>
+</li>
+</ul>
+<h3 id="resumemd"><a href="source/resume.html"><code>resume.md</code></a></h3>
+<p>An example can be found in <a href="source/resume.html"><code>resume.md</code></a>. Below are the main guidelines:</p>
+<ul>
+<li>The file must contain link to stylesheet
+<ul>
+<li><code>&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;resume.css&quot;&gt;</code></li>
+</ul>
+</li>
+<li>Name should be wrapped by class <code>name</code>
+<ul>
+<li><code>&lt;span class=&quot;name&quot;&gt;First name Last name&lt;/span&gt;</code></li>
+<li>Centered, large font</li>
+</ul>
+</li>
+<li>Contact information should be wrapped by class <code>info</code>
+<ul>
+<li><code>&lt;span class=&quot;info&quot;&gt;Phone: 123-456-789&lt;/span&gt;</code></li>
+<li>Centered</li>
+</ul>
+</li>
+<li>Section heading should have second level heading
+<ul>
+<li><code>## Work Experience</code></li>
+<li>Colored, medium font, border bottom</li>
+</ul>
+</li>
+<li>Individual experience should have third level heading
+<ul>
+<li><code>### Student Assistant</code></li>
+<li>Bolded, small font</li>
+</ul>
+</li>
+<li>Duration of experience should be wrapped by tag <code>time</code> and in the same line as third level heading
+<ul>
+<li><code>### Student Assistant &lt;time&gt; 2020 - 2021 &lt;/time&gt;</code></li>
+<li>Right-aligned, bolded, small font</li>
+</ul>
+</li>
+<li>Location of experience should be wrapped by tag <code>location</code>
+<ul>
+<li><code>&lt;location&gt; Boston, MA &lt;/location&gt;</code></li>
+<li>Italicized, small font</li>
+</ul>
+</li>
+<li>Description can be listed using Markdown style list
+<ul>
+<li><code>- Designed 3 websites with cool graphics.</code></li>
+</ul>
+</li>
+</ul>
+<h3 id="resumecss"><a href="source/resume.css"><code>resume.css</code></a></h3>
+<p><a href="source/resume.css"><code>resume.css</code></a> controls resume's styling. Change it if you want to customize the template! Below are some tips:</p>
+<ul>
+<li>Colored texts are <code>h2</code> and <code>a</code> tags with color <code>#0D47A1</code>.</li>
+<li>To tighten the list spacing to fit content in one page, try decreasing the <code>li</code> tag's default line height of 150%.
+<ul>
+<li>Tweaking page margin in browser print option is also helpful.</li>
+</ul>
+</li>
+</ul>
+
+            
+            
+        </body>
+        </html>

@@ -9,7 +9,7 @@ body {
     margin: 0 auto;
     padding: 0;
     font-family: "Roboto Slab";
-    font-size: 10.5px;
+    font-size: 12px;
 }
 
 .name {
@@ -51,7 +51,7 @@ h4 {
 }
 
 p, ul {
-    font-size: .95em;
+    font-size: 1em;
     margin: 0;
 }
 
