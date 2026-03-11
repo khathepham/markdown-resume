@@ -181,3 +181,7 @@
 
 ### B.S. Computer Science - University of Manitoba <time> Sept. 2021 - Apr. 2024 </time>
 <location> Winnipeg, Man., Canada </location>
+
+- Dean's Honour List, Fall 2022
+- Relevant Coursework: Algorithms, Artificial Intelligence, Distributed Computing, Databases, Software Engineering, Data Mining, Data Science
+- External Executive, .devClub; Executive, UMPep Pep Band; Member, Rotaract Club
