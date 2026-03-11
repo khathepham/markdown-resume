@@ -44,7 +44,7 @@
 
 - Maintain and extend a suite of 30+ SAS driver programs and their dependencies supporting CPI data analysis, translating new requirements from economists and statisticians into updated program logic across large-scale Census datasets.
 - Operate and troubleshoot production SAS job runs end-to-end, diagnosing and resolving errors in statistical report outputs delivered to the program office.
-- Contribute to agency-wide SAS-to-Python modernization effort by writing and testing Python replacements for legacy workflows; developed a SAS dependency and line-count inventorying script to support migration planning.
+- Contribute to agency-wide SAS-to-Python modernization effort by writing and testing Python replacements for legacy workflows; developing a SAS dependency and line-count inventorying script to support migration planning.
 - Mitigated data gaps caused by a federal government shutdown by engineering a simulation environment to mock missing Consumer Expenditure survey data from October and November, enabling continued program office operations.
 - Prototyped a centralized Graylog logging dashboard across 4 microservices, replacing file-based logging to improve observability ahead of the team’s AWS migration.
 - Led technical discovery and requirements gathering to evaluate team readiness for Enterprise Pipeline adoption, identifying compatibility gaps (e.g., legacy SAS/Oracle dependencies) and communicating platform restrictions to stakeholders.
@@ -56,7 +56,7 @@
 
 <!-- - Skills used: Python, Flask, Ansible, Jenkins, Dynatrace, Agile, SCRUM, Git, GitHub, REST API, HTML/CSS/JS, TypeScript, Redis Server, Databases. -->
 - Developed a health monitoring tool across 6-7 Dynatrace clusters, dispatching email and Slack alerts when configurable, application-specific performance thresholds were exceeded.
-- Automated team permission management on RBC's internal GitHub platform using Python and Ansible, allowing access rights, groups, and tags to be updated across all employees via a single config file.
+- Automated team permission management on RBC's internal GitHub platform using Python and Ansible, allowing access rights, groups, and tags to be updated across all team members via a single config file.
 <!-- - Implemented a comprehensive monitoring and notification system that proactively detects, alerts, and facilitates swift resolution of outages and potential issues. -->
 
 ## Leadership and Community Experience
@@ -66,7 +66,7 @@
 <location> Chair <timex> Feb. 2024 - Present </timex></location>
 
 - Selected and onboarded a 25+ person organizing team from a 90+ candidate pool, conducting structured interviews to staff all conference committees.
-- Led a 25+ person team to deliver a 3-day, 350+ attendee national conference on time and on budget, directly filling gaps in under-resourced teams to maintain momentum.
+- Led a 25+ person team to deliver a 3-day, 350+ attendee national conference on time and on budget, stepping in across under-resourced teams to maintain momentum.
 
 <location> Director of Logistics <timex>Feb. 2023 - Feb. 2024</timex></location>
 
@@ -88,7 +88,7 @@
 ### .devHacks Registration Platform <time>Jan. 2024 - Feb. 2024</time>
 
 <!-- - Skills: Python, Flask, Google Cloud Platform, Git, GitHub, REST API, HTML, CSS, JS, Node. -->
-- Spearheaded a full-stack registration system for 300+ attendees, utilizing webhooks and APIs to automate check-ins and pivoting server logic in real-time to support 24-hour event logistics.
+- Built a full-stack registration system for 300+ attendees, utilizing webhooks and APIs to automate check-ins and pivoting server logic in real-time to support 24-hour event logistics.
 - Extended the platform mid-event to support QR code-based lunch check-ins, integrating new functionality under live conditions without service interruption.
 
 <!-- ### Borealis - Software Engineering Course Project <time>Jan. 2024 - May 2024</time>
