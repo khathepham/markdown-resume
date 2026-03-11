@@ -42,7 +42,7 @@
 
 <location>Washington, D.C., USA</location>
 
-- Contribute to agency-wide SAS-to-Python modernization effort by writing and testing Python replacements for legacy workflows; developing a SAS dependency and line-count inventorying script to support migration planning.
+- Contribute to agency-wide SAS-to-Python modernization effort by writing and testing Python replacements for legacy workflows, including a SAS dependency and line-count inventorying script to support migration planning.
 - Maintain and extend a suite of 30+ SAS driver programs and their dependencies supporting CPI data analysis, translating new requirements from economists and statisticians into updated program logic across large-scale Census datasets.
 - Mitigated data gaps caused by a federal government shutdown by engineering a simulation environment to mock missing Consumer Expenditure survey data from October and November, enabling continued program office operations.
 - Prototyped a centralized Graylog logging dashboard across 4 microservices, replacing file-based logging to improve observability ahead of the team’s AWS migration.
