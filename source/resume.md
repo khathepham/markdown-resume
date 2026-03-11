@@ -12,11 +12,11 @@
 </span>
 
 ## Skills
-**Programming and Markup Languages:** Python, Java, C#, SQL, SAS, C, C++, Javascript, HTML, CSS, TailwindCSS, React, Kotlin.
+**Languages:** Python, Java, C#, SQL, SAS, C, C++, JavaScript, HTML, CSS, Kotlin.
 
-**Technologies:** Ansible Tower, AWS (API Gateway, Lambda, EC2), CI/CD, Dynatrace, Flask, Gradle, Git, GCP (Compute Engine, App Engine), Graylog, Jenkins, Linux, Mac, Maven, Microsoft Azure Databases, REST API, Vite.
+**Tools & Platforms:** Ansible Tower, AWS (API Gateway, Lambda, EC2), Docker, Dynatrace, Flask, GCP (Compute Engine, App Engine), Git, Grafana, Gradle, Graylog, Jenkins, Linux, Loki, macOS, Maven, Microsoft Azure Databases, Prometheus, React, Redis, REST API, TailwindCSS, Vite.
 
-**Additional Skills:** Agile, Data Structures and Algorithms, Database Design and Implimentation, Data Mining, Distributed Programming, Consensus Algorithms, Human-Computer Interaction.
+**Concepts:** Agile, CI/CD, Consensus Algorithms, Data Mining, Data Structures and Algorithms, Database Design and Implementation, Distributed Programming.
 
 
 <!-- - Dean's List -->
