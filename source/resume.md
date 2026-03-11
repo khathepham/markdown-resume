@@ -105,6 +105,15 @@
 - Demonstrated adeptness in integrating diverse APIs — Tally.so for real-time verification, Ticket Tailor for attendee management, and Discord for automated access control—enhancing the user experience. -->
 <!-- - Ensured scalability and reliable performance, contributing significantly to a vibrant online community and improved participant engagement for the conference. -->
 
+### CUSEC Verifier <time> Jan. 2024 </time>
+
+<location>CUSEC: Canadian University Software Engineering Conference</location>
+
+[github.com/khathepham/CUSEC-Verifier](https://github.com/khathepham/CUSEC-Verifier)
+
+- Built a Python Flask authentication service on GCP App Engine to verify CUSEC 2024 ticket holders and grant automated Discord access to 250+ attendees.
+- Integrated three external APIs (Tally.so, Ticket Tailor, Discord) to automate the full verification pipeline from ticket purchase to community access.
+
 ### SpooderSnake-42 - RBC Battlesnake Tournament <time> July 2023 </time>
 
 [github.com/Derzz/battlesnek](https://github.com/Derzz/battlesnek)
