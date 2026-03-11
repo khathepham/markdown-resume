@@ -42,12 +42,12 @@
 
 <location>Washington, D.C., USA</location>
 
-- Maintain and extend a suite of 30+ SAS driver programs and their dependencies supporting CPI data analysis, translating new requirements from economists and statisticians into updated program logic across large-scale Census datasets.
-- Operate and troubleshoot production SAS job runs end-to-end, diagnosing and resolving errors in statistical report outputs delivered to the program office.
 - Contribute to agency-wide SAS-to-Python modernization effort by writing and testing Python replacements for legacy workflows; developing a SAS dependency and line-count inventorying script to support migration planning.
+- Maintain and extend a suite of 30+ SAS driver programs and their dependencies supporting CPI data analysis, translating new requirements from economists and statisticians into updated program logic across large-scale Census datasets.
 - Mitigated data gaps caused by a federal government shutdown by engineering a simulation environment to mock missing Consumer Expenditure survey data from October and November, enabling continued program office operations.
 - Prototyped a centralized Graylog logging dashboard across 4 microservices, replacing file-based logging to improve observability ahead of the team’s AWS migration.
-- Led technical discovery and requirements gathering to evaluate team readiness for Enterprise Pipeline adoption, identifying compatibility gaps (e.g., legacy SAS/Oracle dependencies) and communicating platform restrictions to stakeholders.
+<!-- - Operate and troubleshoot production SAS job runs end-to-end, diagnosing and resolving errors in statistical report outputs delivered to the program office. -->
+<!-- - Led technical discovery and requirements gathering to evaluate team readiness for Enterprise Pipeline adoption, identifying compatibility gaps (e.g., legacy SAS/Oracle dependencies) and communicating platform restrictions to stakeholders. -->
 
 
 ### Site Reliability Engineer, Developer Internship - Royal Bank of Canada <time> May 2023 - Aug. 2023</time>
