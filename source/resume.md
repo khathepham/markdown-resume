@@ -55,8 +55,8 @@
 <location>Toronto, Ont., Canada</location>
 
 <!-- - Skills used: Python, Flask, Ansible, Jenkins, Dynatrace, Agile, SCRUM, Git, GitHub, REST API, HTML/CSS/JS, TypeScript, Redis Server, Databases. -->
-- Engineered a monitoring tool to oversee the health of multiple core Dynatrace clusters, implementing automated alerts that notify team members via email and Slack when performance falls below predefined thresholds.
-- Developed a Python and Ansible-based automation tool that streamlined the process of managing team permissions by enabling modifications through a single editable file, automatically updating access rights, groups, and tags for employees on the internal GitHub platform.
+- Developed a health monitoring tool across 6-7 Dynatrace clusters, dispatching email and Slack alerts when configurable, application-specific performance thresholds were exceeded.
+- Automated team permission management on RBC's internal GitHub platform using Python and Ansible, allowing access rights, groups, and tags to be updated across all employees via a single config file.
 <!-- - Implemented a comprehensive monitoring and notification system that proactively detects, alerts, and facilitates swift resolution of outages and potential issues. -->
 
 ## Leadership and Community Experience
