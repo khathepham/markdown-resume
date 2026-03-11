@@ -72,6 +72,13 @@
 
 - Orchestrated logistics operations for CUSEC 2024, ensuring effective communication between the conference team and the venue, which was instrumental in the smooth running of an event attended by over 300 software engineering students and professionals.
 
+### Director of External Affairs - .devClub <time> June 2023 - May 2024 </time>
+
+<location> University of Manitoba, Winnipeg, Man., Canada </location>
+
+- Secured industry sponsorships funding .devHacks, a 300+ student hackathon, through targeted outreach and negotiation with technology companies.
+- Delivered a workshop on API development and Flask to 100+ upper-year students, directly increasing participation in the club's subsequent Battlesnake tournament.
+
 ## Projects
 
 <!-- ### Hackform, a Hackathon Organization Platform <time> May 2024 - Present </time>
