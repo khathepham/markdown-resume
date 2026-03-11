@@ -12,9 +12,9 @@
 </span>
 
 ## Skills
-**Programming and Markup Languages:** Python, Java, C#, SQL, C, C++, Javascript, HTML, CSS, TailwindCSS, React, Kotlin.
+**Programming and Markup Languages:** Python, Java, C#, SQL, SAS, C, C++, Javascript, HTML, CSS, TailwindCSS, React, Kotlin.
 
-**Technologies:** Ansible Tower, AWS (API Gateway, Lambda, EC2), CI/CD, Dynatrace, Flask, Gradle, Git, GCP (Compute Engine, App Engine), Jenkins, Linux, Mac, Maven, Microsoft Azure Databases, REST API, Vite.
+**Technologies:** Ansible Tower, AWS (API Gateway, Lambda, EC2), CI/CD, Dynatrace, Flask, Gradle, Git, GCP (Compute Engine, App Engine), Graylog, Jenkins, Linux, Mac, Maven, Microsoft Azure Databases, REST API, Vite.
 
 **Additional Skills:** Agile, Data Structures and Algorithms, Database Design and Implimentation, Data Mining, Distributed Programming, Consensus Algorithms, Human-Computer Interaction.
 
@@ -42,11 +42,12 @@
 
 <location>Washington, D.C., USA</location>
 
-- Engineered cloud-ready observability for a developing Flask/Angular application, facilitating the team’s strategic transition to AWS and modern tooling.
-- Conducted a comprehensive technical audit of observability tools, ultimately implementing Graylog to provide high-visibility logging with minimal configuration complexity.
-- Proactively mitigated data gaps caused by a federal government shutdown by engineering a simulation environment to mock two months of missing Consumer Expenditure data.
-- Led technical discovery and requirements gathering for diverse project teams, identifying friction points and compatibility gaps (e.g., legacy SAS/Oracle dependencies) to ensure a seamless migration to the enterprise stack.
-- Translates complex statistical requirements into technical logic using SAS, enabling accurate year-over-year data foundational to the US Consumer Price Index, impacting federal monetary policy and global financial governemnts.
+- Maintain and extend a suite of 30+ SAS driver programs and their dependencies supporting CPI data analysis, translating new requirements from economists and statisticians into updated program logic across large-scale Census datasets.
+- Operate and troubleshoot production SAS job runs end-to-end, diagnosing and resolving errors in statistical report outputs delivered to the program office.
+- Contribute to agency-wide SAS-to-Python modernization effort by writing and testing Python replacements for legacy workflows; developed a SAS dependency and line-count inventorying script to support migration planning.
+- Mitigated data gaps caused by a federal government shutdown by engineering a simulation environment to mock missing Consumer Expenditure survey data from October and November, enabling continued program office operations.
+- Prototyped a centralized Graylog logging dashboard across 4 microservices, replacing file-based logging to improve observability ahead of the team’s AWS migration.
+- Led technical discovery and requirements gathering to evaluate team readiness for Enterprise Pipeline adoption, identifying compatibility gaps (e.g., legacy SAS/Oracle dependencies) and communicating platform restrictions to stakeholders.
 
 
 ### Site Reliability Engineer, Developer Internship - Royal Bank of Canada <time> May 2023 - Aug. 2023</time>
