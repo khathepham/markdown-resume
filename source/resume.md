@@ -61,16 +61,16 @@
 
 ## Leadership and Community Experience
 
-### CUSEC: Canadian Unviersity Software Engineering Conference <time> Apr. 2022 - Present</time>
+### CUSEC: Canadian University Software Engineering Conference <time> Apr. 2022 - Present</time>
 
 <location> Chair <timex> Feb. 2024 - Present </timex></location>
 
-- Led a comprehensive selection process, evaluating over 90 candidates and conducting interviews to successfully build and lead a cohesive team to plan a national conference.
-- Directed a 25+ person organizing team, stepping in to support under-resourced teams to maintain project milestones and budget targets, and smoothly execute a 3-day 350+ attendee conference.
+- Selected and onboarded a 25+ person organizing team from a 90+ candidate pool, conducting structured interviews to staff all conference committees.
+- Led a 25+ person team to deliver a 3-day, 350+ attendee national conference on time and on budget, directly filling gaps in under-resourced teams to maintain momentum.
 
-<location> Director of Logistics <timex>Feb. 2023 - Feb 2024</timex></location>
+<location> Director of Logistics <timex>Feb. 2023 - Feb. 2024</timex></location>
 
-- Orchestrated logistics operations for CUSEC 2024, ensuring effective communication between the conference team and the venue, which was instrumental in the smooth running of an event attended by over 300 software engineering students and professionals.
+- Managed all venue logistics for CUSEC 2024, serving as primary liaison between the organizing team and venue to support a 300+ attendee event.
 
 ### Director of External Affairs - .devClub <time> June 2023 - May 2024 </time>
 
