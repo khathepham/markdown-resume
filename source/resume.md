@@ -89,6 +89,7 @@
 
 <!-- - Skills: Python, Flask, Google Cloud Platform, Git, GitHub, REST API, HTML, CSS, JS, Node. -->
 - Spearheaded a full-stack registration system for 300+ attendees, utilizing webhooks and APIs to automate check-ins and pivoting server logic in real-time to support 24-hour event logistics.
+- Extended the platform mid-event to support QR code-based lunch check-ins, integrating new functionality under live conditions without service interruption.
 
 <!-- ### Borealis - Software Engineering Course Project <time>Jan. 2024 - May 2024</time>
 <!-- - Skills: Android development, Java, Gradle, Maven, JUnit, Mockito, HSQLDB, Agile -->
@@ -108,7 +109,7 @@
 
 [github.com/Derzz/battlesnek](https://github.com/Derzz/battlesnek)
 
-- Architected a high-concurrency REST API for a competitive global tournament, achieving a Top 40 global ranking through serverless execution and optimized pathfinding algorithms.
+- Built a Python REST API deployed on AWS Lambda for a competitive global Battlesnake tournament, achieving a Top 40 global ranking through serverless auto-scaling and optimized pathfinding algorithms.
 <!-- - Collaborated closely with fellow RBC co-op students to refine strategies, optimize the snake's AI for tactical advancement, and troubleshoot under pressure, demonstrating exceptional teamwork and problem-solving skills. -->
 
 <!-- ### Circuit Breaker <time> Jan. 2023</time>
