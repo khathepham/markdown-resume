@@ -1,6 +1,6 @@
 <!-- title: Kha Pham - Resume --> 
 <link rel="stylesheet" type="text/css" href="resume.css">
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto Slab">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;700&display=swap">
 
 <span class="name">Kha Pham</span>
 
@@ -52,7 +52,7 @@
 
 <location>Washington, D.C., USA</location>
 
-- Built and maintained GitLab CI/CD pipelines automating SSH/rsync deployments of 3 services to acceptance servers on an ad-hoc basis.
+- Built and maintained GitLab CI/CD pipelines automating SSH/rsync deployments of 3 services to acceptance servers on-demand.
 - Integrated unit testing, SonarQube static analysis, and Trivy vulnerability scanning as quality gates across acceptance and production pipelines in an air-gapped environment backed by internal Sonatype Nexus for a service modernization project.
 - Created a VS Code Remote-SSH setup using per-user sshd instances on custom ports, enabling modern IDE workflows on servers that prohibit port forwarding.
 - Contributed to agency-wide SAS-to-Python modernization by writing and testing Python replacements for legacy workflows and building a SAS codebase inventory tool to support migration planning.
