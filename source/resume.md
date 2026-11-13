@@ -6,17 +6,27 @@
 
 <span class="info">
 
-[![Phone](https://img.icons8.com/ios-filled/50/apple-phone.png) +1 (763) 862-8376](tel:+17638628376) |[![Mail](https://simpleicons.org/icons/minutemailer.svg) contact@khathepham.com](mailto:contact@khathepham.com) |
-[![GitHub](https://simpleicons.org/icons/github.svg) github.com/khathepham](https://github.com/khathepham) | [![Linkedin](https://simpleicons.org/icons/linkedin.svg) linkedin.com/in/khathepham](https://www.linkedin.com/in/khathepham) | EN/VI
+[![Phone](https://img.icons8.com/ios-filled/50/apple-phone.png) +1 (763) 862-8376](tel:+17638628376) | [![Mail](https://simpleicons.org/icons/minutemailer.svg) contact@khathepham.com](mailto:contact@khathepham.com) | [![GitHub](https://simpleicons.org/icons/github.svg) github.com/khathepham](https://github.com/khathepham) | [![Linkedin](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original) linkedin.com/in/khathepham](https://www.linkedin.com/in/khathepham) | EN/VI
 
 </span>
 
 ## Skills
-**Programming and Markup Languages:** Python, Java, C#, SQL, C, C++, Javascript, HTML, CSS, TailwindCSS, React, Kotlin.
+**Languages:** Python, SQL, SAS, Java, Kotlin, JavaScript/TypeScript, Bash.
 
-**Technologies:** Ansible Tower, AWS (API Gateway, Lambda, EC2), CI/CD, Dynatrace, Flask, Gradle, Git, GCP (Compute Engine, App Engine), Jenkins, Linux, Mac, Maven, Microsoft Azure Databases, REST API, Vite.
+**Backend:** Flask, REST APIs, Webhooks, Gunicorn, MongoDB, Redis.
 
-**Additional Skills:** Agile, Data Structures and Algorithms, Database Design and Implimentation, Data Mining, Distributed Programming, Consensus Algorithms, Human-Computer Interaction.
+**DevOps & Cloud:** GitLab CI, GitHub Actions, Docker, Docker Compose, Ansible, SonarQube, Trivy, Sonatype Nexus, AWS (Lambda, API Gateway, EC2), GCP (App Engine), Linux, Tailscale.
+
+**Observability:** Grafana, Loki, Graylog, OpenTelemetry, Prometheus, Dynatrace.
+
+<!-- Previous skills:
+**Languages:** Python, Java, C#, SQL, SAS, C, C++, JavaScript, HTML, CSS, Kotlin.
+
+**Tools & Platforms:** Ansible Tower, AWS (API Gateway, Lambda, EC2), Docker, Dynatrace, Flask, GCP (Compute Engine, App Engine), Git, Grafana, Gradle, Graylog, Jenkins, Linux, Loki, macOS, Maven, Microsoft Azure Databases, Prometheus, React, Redis, REST API, TailwindCSS, Vite.
+
+**Concepts:** Agile, CI/CD, Consensus Algorithms, Data Mining, Data Structures and Algorithms, Database Design and Implementation, Distributed Programming.
+-->
+
 
 
 <!-- - Dean's List -->
@@ -42,11 +52,17 @@
 
 <location>Washington, D.C., USA</location>
 
-- Engineered cloud-ready observability for a developing Flask/Angular application, facilitating the team’s strategic transition to AWS and modern tooling.
-- Conducted a comprehensive technical audit of observability tools, ultimately implementing Graylog to provide high-visibility logging with minimal configuration complexity.
-- Proactively mitigated data gaps caused by a federal government shutdown by engineering a simulation environment to mock two months of missing Consumer Expenditure data.
-- Led technical discovery and requirements gathering for diverse project teams, identifying friction points and compatibility gaps (e.g., legacy SAS/Oracle dependencies) to ensure a seamless migration to the enterprise stack.
-- Translates complex statistical requirements into technical logic using SAS, enabling accurate year-over-year data foundational to the US Consumer Price Index, impacting federal monetary policy and global financial governemnts.
+- Built and maintained GitLab CI/CD pipelines automating SSH/rsync deployments of 3 services to acceptance servers on an ad-hoc basis.
+- Integrated unit testing, SonarQube static analysis, and Trivy vulnerability scanning as quality gates across acceptance and production pipelines in an air-gapped environment backed by internal Sonatype Nexus for a service modernization project.
+- Created a VS Code Remote-SSH setup using per-user sshd instances on custom ports, enabling modern IDE workflows on servers that prohibit port forwarding.
+- Contributed to agency-wide SAS-to-Python modernization by writing and testing Python replacements for legacy workflows and building a SAS codebase inventory tool to support migration planning.
+<!-- Previous bullets:
+- Contribute to agency-wide SAS-to-Python modernization effort by writing and testing Python replacements for legacy workflows, including a SAS dependency and line-count inventorying script to support migration planning.
+- Maintain and extend a suite of 30+ SAS driver programs and their dependencies supporting CPI data analysis, translating new requirements from economists and statisticians into updated program logic across large-scale Census datasets. -->
+- Mitigated federal shutdown data gaps by engineering a simulation environment to mock missing Consumer Expenditure survey data, enabling continued program office operations.
+- Prototyped a centralized Graylog logging dashboard across 4 microservices, replacing file-based logging to improve observability ahead of the team’s AWS migration.
+<!-- - Operate and troubleshoot production SAS job runs end-to-end, diagnosing and resolving errors in statistical report outputs delivered to the program office. -->
+<!-- - Led technical discovery and requirements gathering to evaluate team readiness for Enterprise Pipeline adoption, identifying compatibility gaps (e.g., legacy SAS/Oracle dependencies) and communicating platform restrictions to stakeholders. -->
 
 
 ### Site Reliability Engineer, Developer Internship - Royal Bank of Canada <time> May 2023 - Aug. 2023</time>
@@ -54,53 +70,70 @@
 <location>Toronto, Ont., Canada</location>
 
 <!-- - Skills used: Python, Flask, Ansible, Jenkins, Dynatrace, Agile, SCRUM, Git, GitHub, REST API, HTML/CSS/JS, TypeScript, Redis Server, Databases. -->
-- Engineered a monitoring tool to oversee the health of multiple core Dynatrace clusters, implementing automated alerts that notify team members via email and Slack when performance falls below predefined thresholds.
-- Developed a Python and Ansible-based automation tool that streamlined the process of managing team permissions by enabling modifications through a single editable file, automatically updating access rights, groups, and tags for employees on the internal GitHub platform.
+- Developed a health monitoring tool across 6-7 Dynatrace clusters, dispatching email and Slack alerts when configurable, application-specific performance thresholds were exceeded.
+- Automated team permission management on RBC's internal GitHub platform using Python and Ansible, allowing access rights, groups, and tags to be updated across all team members via a single config file.
 <!-- - Implemented a comprehensive monitoring and notification system that proactively detects, alerts, and facilitates swift resolution of outages and potential issues. -->
 
-## Leadership and Community Experience
-
-### CUSEC: Canadian Unviersity Software Engineering Conference <time> Apr. 2022 - Present</time>
-
-<location> Chair <timex> Feb. 2024 - Present </timex></location>
-
-- Led a comprehensive selection process, evaluating over 90 candidates and conducting interviews to successfully build and lead a cohesive team to plan a national conference.
-- Directed a 25+ person organizing team, stepping in to support under-resourced teams to maintain project milestones and budget targets, and smoothly execute a 3-day 350+ attendee conference.
-
-<location> Director of Logistics <timex>Feb. 2023 - Feb 2024</timex></location>
-
-- Orchestrated logistics operations for CUSEC 2024, ensuring effective communication between the conference team and the venue, which was instrumental in the smooth running of an event attended by over 300 software engineering students and professionals.
-
 ## Projects
+
+### Homelab GitOps Platform <time>Mar. 2026 - Present</time>
+
+[github.com/khathepham/homelab](https://github.com/khathepham/homelab)
+
+- Built a GitOps pipeline in GitHub Actions that detects changed Docker Compose stacks from each merged PR and deploys them across 2 hosts running 17 self-hosted services.
+- Secured CI access with ephemeral Tailscale credentials and Infisical-managed secrets; monitor services with Grafana, Loki, and Uptime Kuma.
+
+### .devHacks 2025 Event Services <time>Jan. 2025 - Feb. 2025</time>
+
+- Built three containerized Flask microservices (registration, check-in, teams) using webhooks, a Notion-backed datastore, and QR-code tickets for a 250-attendee hackathon.
+- Automated releases with GitHub Actions, publishing images to GHCR and redeploying via Portainer webhooks.
+
+### SAS Audit <time>Jan. 2026 - Present</time>
+
+[github.com/khathepham/sasaudit](https://github.com/khathepham/sasaudit)
+
+- Built a Python static-analysis CLI that inventories SAS codebases (cross-file dependencies, macros, PROC usage, Oracle calls) and exports multi-sheet Excel reports to support migration planning; covered by 37 pytest tests.
 
 <!-- ### Hackform, a Hackathon Organization Platform <time> May 2024 - Present </time>
 - Leading the development of a generalized hackathon management platform that allows organizers to manage registrations, ticketing, and judging, all in a centralized location.
 - Utilized React.js, TailwindCSS, and Vite for the front end, and Kotlin with Maven and Springboot for the backend. -->
 
+<!-- Previous projects:
 ### .devHacks Registration Platform <time>Jan. 2024 - Feb. 2024</time>
 
-<!-- - Skills: Python, Flask, Google Cloud Platform, Git, GitHub, REST API, HTML, CSS, JS, Node. -->
-- Spearheaded a full-stack registration system for 300+ attendees, utilizing webhooks and APIs to automate check-ins and pivoting server logic in real-time to support 24-hour event logistics.
+ - Skills: Python, Flask, Google Cloud Platform, Git, GitHub, REST API, HTML, CSS, JS, Node. 
+- Built a full-stack registration system for 300+ attendees, utilizing webhooks and APIs to automate check-ins and pivoting server logic in real-time to support 24-hour event logistics.
+- Extended the platform mid-event to support QR code-based lunch check-ins, integrating new functionality under live conditions without service interruption.
 
-<!-- ### Borealis - Software Engineering Course Project <time>Jan. 2024 - May 2024</time>
-<!-- - Skills: Android development, Java, Gradle, Maven, JUnit, Mockito, HSQLDB, Agile -->
-<!-- - Developed an Android application utilizing Java, Maven/Gradle, and HSQLDB that aims to replace the current course and student management system used by the University of Manitoba in order to streamline and it easier for students to register for courses.
-- Utilized Test-Driven Development using JUnit Testing and Mockito, though Android Studio, to ensure that time is used efficiently and limiting bugs during development. -->
+ ### Borealis - Software Engineering Course Project <time>Jan. 2024 - May 2024</time>
+ - Skills: Android development, Java, Gradle, Maven, JUnit, Mockito, HSQLDB, Agile 
+ - Developed an Android application utilizing Java, Maven/Gradle, and HSQLDB that aims to replace the current course and student management system used by the University of Manitoba in order to streamline and it easier for students to register for courses.
+- Utilized Test-Driven Development using JUnit Testing and Mockito, though Android Studio, to ensure that time is used efficiently and limiting bugs during development. 
   
-<!-- ### CUSEC Verifier <time> Jan 2024 </time>
+ ### CUSEC Verifier <time> Jan 2024 </time>
 <location>CUSEC: Canaidan University Software Engineering Conference</location>
 
 [github.com/khathepham/CUSEC-Verifier](https://github.com/khathepham/CUSEC-Verifier)
 
 - Constructed a Python Flask webserver on Google App Engine to authenticate CUSEC 2024 ticket holders, facilitating secure Discord access for over 250 attendees with minimal entry barriers.
-- Demonstrated adeptness in integrating diverse APIs — Tally.so for real-time verification, Ticket Tailor for attendee management, and Discord for automated access control—enhancing the user experience. -->
-<!-- - Ensured scalability and reliable performance, contributing significantly to a vibrant online community and improved participant engagement for the conference. -->
+- Demonstrated adeptness in integrating diverse APIs — Tally.so for real-time verification, Ticket Tailor for attendee management, and Discord for automated access control—enhancing the user experience. 
+ - Ensured scalability and reliable performance, contributing significantly to a vibrant online community and improved participant engagement for the conference. 
+
+### CUSEC Verifier <time> Jan. 2024 </time>
+
+<location>CUSEC: Canadian University Software Engineering Conference</location>
+
+[github.com/khathepham/CUSEC-Verifier](https://github.com/khathepham/CUSEC-Verifier)
+
+- Built a Python Flask authentication service on GCP App Engine to verify CUSEC 2024 ticket holders and grant automated Discord access to 250+ attendees.
+- Integrated three external APIs (Tally.so, Ticket Tailor, Discord) to automate the full verification pipeline from ticket purchase to community access.
 
 ### SpooderSnake-42 - RBC Battlesnake Tournament <time> July 2023 </time>
 
 [github.com/Derzz/battlesnek](https://github.com/Derzz/battlesnek)
 
-- Architected a high-concurrency REST API for a competitive global tournament, achieving a Top 40 global ranking through serverless execution and optimized pathfinding algorithms.
+- Built a Python REST API deployed on AWS Lambda for a competitive global Battlesnake tournament, achieving a Top 40 global ranking through serverless auto-scaling and optimized pathfinding algorithms.
+-->
 <!-- - Collaborated closely with fellow RBC co-op students to refine strategies, optimize the snake's AI for tactical advancement, and troubleshoot under pressure, demonstrating exceptional teamwork and problem-solving skills. -->
 
 <!-- ### Circuit Breaker <time> Jan. 2023</time>
@@ -176,7 +209,32 @@
 - Tracked students progress and accomplishments to analyze and adjust tutoring methods. -->
 <!-- Detail checks: 1. No period for each bullet; 2. Past tense for previous work; 3. Present tense for current work; 4. Spell check passed; 5. Grammarly check passed; 6. Sync with Linkedin; 7. Check paper format -->
 
+## Leadership and Community Experience
+
+### CUSEC: Canadian University Software Engineering Conference <time> Apr. 2022 - Present</time>
+
+<location> Chair <timex> Feb. 2024 - Present </timex></location>
+
+- Selected and onboarded a 25+ person organizing team from a 90+ candidate pool, conducting structured interviews to staff all conference committees.
+- Led a 25+ person team to deliver a 3-day, 350+ attendee national conference on time and on budget, stepping in across under-resourced teams to maintain momentum.
+
+<!-- <location> Director of Logistics <timex>Feb. 2023 - Feb. 2024</timex></location> -->
+
+<!-- - Managed all venue logistics for CUSEC 2024, serving as primary liaison between the organizing team and venue to support a 300+ attendee event. -->
+
+### Director of External Affairs - .devClub <time> June 2023 - May 2024 </time>
+
+<location> University of Manitoba, Winnipeg, Man., Canada </location>
+
+- Secured industry sponsorships funding .devHacks, a 300+ student hackathon, through targeted outreach and negotiation with technology companies.
+- Delivered a workshop on API development and Flask to 100+ upper-year students, directly increasing participation in the club's subsequent Battlesnake tournament.
+
 ## Education
 
 ### B.S. Computer Science - University of Manitoba <time> Sept. 2021 - Apr. 2024 </time>
+
 <location> Winnipeg, Man., Canada </location>
+
+- Dean's Honour List, Fall 2022
+- Relevant Coursework: Algorithms, Artificial Intelligence, Distributed Computing, Databases, Software Engineering, Data Mining, Data Science
+- External Executive, .devClub; Executive, UM Pep Band; Member, Rotaract Club
